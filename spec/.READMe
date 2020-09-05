@@ -1,0 +1,11 @@
+Set up the game initially
+    Create a game board
+    Create a couple players
+Start the game loop
+    Render the board
+    Ask for and validate the current player's coordinates
+    If the game is over
+        Display the proper victory / draw message
+        Stop looping
+    Else
+        Switch to the next player and keep looping
